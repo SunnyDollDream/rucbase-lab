@@ -2,30 +2,30 @@
 .idea/
 .vscode/
 
-# macos
-.DS_Store
+# # macos
+# .DS_Store
 
-# build
-/build/
-/rucbase_client/build/
-/cmake-build-debug/
-/cmake-build-wsl_profile_debug
-*.out
+# # build
+# /build/
+# /rucbase_client/build/
+# /cmake-build-debug/
+# /cmake-build-wsl_profile_debug
+# *.out
 
-# bison & flex
-#lex.yy.cpp
-#yacc.tab.h
-#yacc.tab.cpp
+# # bison & flex
+# #lex.yy.cpp
+# #yacc.tab.h
+# #yacc.tab.cpp
 
-# python
-__pycache__/
+# # python
+# __pycache__/
 
-# backup
-*_backup/
+# # backup
+# *_backup/
 
-# tmp
-/tmp/
-/src/parser/build/
-*.zip
+# # tmp
+# /tmp/
+# /src/parser/build/
+# *.zip
 
-deps/
+# deps/

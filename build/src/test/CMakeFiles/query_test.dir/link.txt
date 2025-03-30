@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -O0 -g -ggdb3 -g -O0 -g CMakeFiles/query_test.dir/query/query_test.cpp.o -o ../../bin/query_test 
